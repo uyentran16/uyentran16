@@ -4,11 +4,10 @@
 
 <h2>👨‍💻 Cost Analysis Projects:</h2>
 
-<h2>💻 Others Projects:</h2>
-- [Tableau | Sales & Customer Dashboard](https://coursera.org/share/7334fdebf6fd8ad7c22c2a09183b88e0)
-- [Tableau | HR Analytics Dashboard](https://www.credly.com/badges/ac5eaf4b-fc8a-4b1a-8827-f326fd3605f6/linked_in_profile)
-- [Tableau | Ecommerce Sales Dashboard](https://www.udemy.com/certificate/UC-4702775d-0b5f-4ea6-b93b-b0edca6e02ee/)
-- [Tableau + PostgreSQL | Pizza Sales Report](https://certification.wallstreetprep.com/501b3a0b-53af-4208-9497-9bec2f8fdc3a#acc.1ehDTdYb)
+<h2>💻 Others:</h2>
+
+- <b>Tableau Projects</b>
+  - [Tableau | Sales & Customer Dashboard](https://github.com/uyentran16/SalesCustomerDashboard)
 
 <h2>📑 Certifications</h2>
 
