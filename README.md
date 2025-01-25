@@ -4,6 +4,10 @@
 
 <h2>👨‍💻 Cost Analysis Projects:</h2>
 
+<h2>💻 Others Projects:</h2>
+  - [Tableau | HR Analytics Dashboard](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Tableau | Sales & Customer Dashboard](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Tableau | Ecommerce Sales Dashboard](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>📑 Certifications</h2>
 
